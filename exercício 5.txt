@@ -1,0 +1,7 @@
+Para resolver o exercício das 3 lampadas eu usaria uma estratégia de "marcação",
+preciso identificar uma das lâmpadas de outra forma já que só posso ir até as
+salas duas vezes. Eu deixaria o primeiro interruptor acionado por vários minutos
+e desligaria em seguida,depois acenderia o segundo interruptor e iria até as
+salas. A lâmpada que estivesse quente seria do primeiro interruptor, a que
+estivesse acessa do segundo interruptor e a que estivesse apagada seria do
+terceiro interruptor.
